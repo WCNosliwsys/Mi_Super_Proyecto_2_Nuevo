@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mi Super Proyecto 2 Nuevo</string>
+    <string name="drawer_open">abierto</string>
+    <string name="drawer_close">cerrado</string>
 </resources>
